@@ -1,0 +1,28 @@
+name: My Thoughts
+favicon: null
+layout_spectrum: 0.7455349969677627
+typography_spectrum: 0.2510845479555428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.254370397888124
+  lightness: 0.06364021264016628
+  saturation: 0.7664010382723063
+  rhythmicContrast: 0.22455189656466246
+purpose: []
