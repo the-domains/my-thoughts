@@ -2,6 +2,7 @@ name: My Thoughts
 favicon: null
 layout_spectrum: 0.7455349969677627
 typography_spectrum: 0.2510845479555428
+title: My Thoughts
 cta:
   domain: null
   bucket: null
